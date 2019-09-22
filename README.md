@@ -1,4 +1,4 @@
 # ClassicASP.RemoverAcentuacao
-Remove a acentuação de um texto
+Remove acentos das palavras
 
 Salve o arquivo com encoding: "UTF-8 with BOM"
